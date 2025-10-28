@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshdeshmane28&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshdeshmane28" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,React,Web Development**
-
 - 💬 Ask me about **Html,Css,JavaScript,React,Python**
 
 - 📫 How to reach me <a  href="https://www.linkedin.com/in/jayeshdeshmane/" target="_blank"><span>**Click Me**</span></a>
